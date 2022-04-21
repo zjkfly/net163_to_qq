@@ -11,7 +11,9 @@ PS:需要自己抓包找到下列数据：
 TODO：自动化将歌单直接导入
 TODO：使用代理，防止ip被封，或者多线程
 
-## 1、如何获取歌单json数据，也可通过api直接请求，不过需要构造一下请求头。response中即为歌单的json数据
+## 1、如何获取歌单json数据
+也可以直接通过api直接请求，不过需要构造一下请求头。
+response中即为歌单的json数据
 ![image](https://user-images.githubusercontent.com/42086593/164384031-e579b2f5-87e0-44a0-97f9-ebd61f2a0fba.png)
 ## 2、qq音乐登录cookie
 登录qq音乐后，打开浏览器抓包工具，查看cookie和
